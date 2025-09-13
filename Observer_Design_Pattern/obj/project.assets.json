@@ -8,21 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yurdakoce\\.nuget\\packages\\": {}
+    "/Users/ender/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yurdakoce\\Documents\\github_dotnet_design_patterns\\dotnet-design-pattern-templates\\Observer_Design_Pattern\\Observer_Design_Pattern.csproj",
+      "projectUniqueName": "/Users/ender/Documents/GitRepo_CSharp_DesignPatterns/dotnet-design-pattern-templates/Observer_Design_Pattern/Observer_Design_Pattern.csproj",
       "projectName": "Observer_Design_Pattern",
-      "projectPath": "C:\\Users\\yurdakoce\\Documents\\github_dotnet_design_patterns\\dotnet-design-pattern-templates\\Observer_Design_Pattern\\Observer_Design_Pattern.csproj",
-      "packagesPath": "C:\\Users\\yurdakoce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yurdakoce\\Documents\\github_dotnet_design_patterns\\dotnet-design-pattern-templates\\Observer_Design_Pattern\\obj\\",
+      "projectPath": "/Users/ender/Documents/GitRepo_CSharp_DesignPatterns/dotnet-design-pattern-templates/Observer_Design_Pattern/Observer_Design_Pattern.csproj",
+      "packagesPath": "/Users/ender/.nuget/packages/",
+      "outputPath": "/Users/ender/Documents/GitRepo_CSharp_DesignPatterns/dotnet-design-pattern-templates/Observer_Design_Pattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yurdakoce\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/ender/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -40,7 +38,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net7.0": {
@@ -61,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.303/RuntimeIdentifierGraph.json"
       }
     }
   }

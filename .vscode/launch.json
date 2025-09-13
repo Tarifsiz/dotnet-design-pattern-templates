@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/observer/bin/Debug/net7.0/observer.dll",
+            "program": "${workspaceFolder}/observer/bin/Debug/net9.0/observer.dll",
             "args": [],
             "cwd": "${workspaceFolder}/observer",
             "console": "internalConsole",

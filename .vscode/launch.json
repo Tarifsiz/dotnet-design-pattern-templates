@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Observer_Design_Pattern/bin/Debug/net7.0/Observer_Design_Pattern.dll",
+            "program": "${workspaceFolder}/observer/bin/Debug/net7.0/observer.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Observer_Design_Pattern",
+            "cwd": "${workspaceFolder}/observer",
             "console": "internalConsole",
             "stopAtEntry": false
         },

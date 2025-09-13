@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Observer_Design_Pattern/Observer_Design_Pattern.sln",
+                "${workspaceFolder}/observer/observer.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Observer_Design_Pattern/Observer_Design_Pattern.sln",
+                "${workspaceFolder}//observer/observer.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Observer_Design_Pattern/Observer_Design_Pattern.sln"
+                "${workspaceFolder}/observer/observer.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
